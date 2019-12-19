@@ -1,5 +1,5 @@
-title : Wall-E - Jekyll
-description: 'A Modern Jekyll Theme'
+title : Shabang.DEV: Learn how to code! 
+description: 'A website for teaching you how to code!'
 
 markdown: kramdown
 highlighter: rouge
@@ -7,4 +7,4 @@ logo: false
 paginate: 15
 baseurl: /
 plugins: [jekyll-gist]
-permalink: /:year/:month/:title.html
+permalink: /:title.html
